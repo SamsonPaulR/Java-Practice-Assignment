@@ -83,9 +83,9 @@ class BookImplementation {
 
 public class BookImplementDemo {
     public static void main(String[] args) {
-        Author joshuaBloch = new Author("Joshua", "Bloch");
-        Author brianGoetz = new Author("Brian", "Goetz");
-        Author barryBurd = new Author("Barry", "Burd");
+        Author joshuaBloch = new Author("Samson", "Paul");
+        Author brianGoetz = new Author("Wilson", "Richard");
+        Author barryBurd = new Author("Edwin", "Marchel");
 
         Book Java1 = new Book("Effective Java", joshuaBloch);
         Book Java2 = new Book("Java Concurrency In Practice", brianGoetz);
