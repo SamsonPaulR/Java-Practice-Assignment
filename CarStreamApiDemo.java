@@ -72,7 +72,7 @@ class CarImplementation {
 public class CarStreamApiDemo {
     public static void main(String[] args) {
         List<Car> carList = Arrays.asList(
-                new Car("John", "Alfa Romeo", 50000),
+                new Car("Samson", "Paul", 50000),
                 new Car("Alice", "Bugatti", 800000),
                 new Car("Bob", "Chrysler", 45000),
                 new Car("Eve", "Dodge", 55000),
